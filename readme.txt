@@ -4,3 +4,4 @@ git is a good tool
 add a new branch name is dev 
 add master
 add test
+Creating a new branch is quick AND simple.
